@@ -83,3 +83,9 @@ h6 {
     height: auto;
     display: block;
 }
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #ddd;
+}
